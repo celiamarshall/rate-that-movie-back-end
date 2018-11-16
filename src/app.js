@@ -11,7 +11,7 @@ app.use(bodyParser.json())
 
 // Routes
 
-app.use('/movies', require('./routes/instructors'))
+app.use('/movies', require('./routes/movies'))
 
 
 // Default Route
