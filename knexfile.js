@@ -1,6 +1,6 @@
 const path = require('path')
 
-const DB_NAME = ''
+const DB_NAME = 'movies'
 
 module.exports = {
 
