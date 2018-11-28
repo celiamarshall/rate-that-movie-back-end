@@ -19,3 +19,7 @@
 - GET /movies/:id  _show a specific movie_
 - PUT /movies/:id _edit a movie_
 - DELETE /movies/:id _delete a movie_
+
+## Deployed Server
+
+https://intense-hamlet-17480.herokuapp.com/movies
